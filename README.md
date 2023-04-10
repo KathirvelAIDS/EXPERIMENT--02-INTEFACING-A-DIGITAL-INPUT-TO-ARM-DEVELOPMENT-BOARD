@@ -174,7 +174,8 @@ LIGHT ON:
 
 
 LIGHT OFF:
-![image](https://user-images.githubusercontent.com/94911373/230896132-89f00c6d-510a-4c2c-b6a9-c1e3a890c564.png)
+
+![Screenshot 2023-04-10 172118](https://user-images.githubusercontent.com/94911373/230896654-8c6f5ec3-2a45-4fd2-be30-f059095a9f37.png)
 
  
  
