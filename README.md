@@ -167,7 +167,14 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
+
+LIGHT ON:
+
  ![image](https://user-images.githubusercontent.com/94911373/230872822-ea124969-2196-4180-ac02-ff645aac4c47.png)
+
+
+LIGHT OFF:
+![image](https://user-images.githubusercontent.com/94911373/230896132-89f00c6d-510a-4c2c-b6a9-c1e3a890c564.png)
 
  
  
